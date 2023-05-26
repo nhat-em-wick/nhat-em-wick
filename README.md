@@ -5,7 +5,7 @@
 
 - [Shopping cart](https://github.com/nhat-em-wick/emarket-clone)
 
-- [Blog](https://next-blog-nhat-em-wick.vercel.app/)
+- [Blog](https://github.com/nhat-em-wick/blog-next13)
 
 <p align="left">
 </p>
