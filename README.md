@@ -1,7 +1,7 @@
 <h1 align="center"> Nguyễn Minh Nhật</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<h3 align="left">Feature Projects</h3>
+<h3 align="left">Projects</h3>
 
 - [Shopping cart](https://github.com/nhat-em-wick/emarket-clone)
 
